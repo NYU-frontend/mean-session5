@@ -51,18 +51,27 @@ var data = {
         }
     }]
 }
-var output = "<ul>";
-for (var i in data.portfolios) {
+    var output = "<ul>";
+    for (var i in data.portfolios) {
         output += 
         "<li>" + 
-        "<img src=" + data.portfolios[i].imageurl.img1 + "/>" + 
-        data.portfolios[i].title + "--" + 
-        data.portfolios[i].date + "--" + 
+        
+        "<img src=" + 
+        data.portfolios[i].imageurl.img1 + "/>" + 
+
+        "<img src=" + 
+        data.portfolios[i].imageurl.img2 + "/>" + 
+
+        "<img src=" + 
+        data.portfolios[i].imageurl.img3 + "/>" + 
+
+        data.portfolios[i].title + " -- " + 
+        data.portfolios[i].date + " -- " + 
         data.portfolios[i].description  +
         "</li>";
-}
-output += "</ul>";
-document.getElementById("placeholder").innerHTML = output;
+    }
+    output += "</ul>";
+    document.getElementById("placeholder").innerHTML = output;
 </script>
 </body>
 </html>
