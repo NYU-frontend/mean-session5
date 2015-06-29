@@ -6,14 +6,12 @@ tbd
 
 ##Tools of the trade - continued
 
-* [Bootstrap](http://getbootstrap.com/getting-started/) and SASS
-* Responsive design: breakpoints and images
-* [Codekit](https://incident57.com/codekit/)
+* [JSON Format](http://www.freeformatter.com/json-formatter.html)
+* [A simple JSON Tutorial](http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/)
 * [Angular JS](https://angularjs.org)
 * [Angular Code](https://code.angularjs.org/)
 * [Angular Docs](https://docs.angularjs.org/api)
 * [Github forking](https://help.github.com/articles/fork-a-repo/) 
-* [Github commenting](https://help.github.com/articles/markdown-basics/)
 
 Git  
 * [Git checkout](http://git-scm.com/docs/git-checkout)
@@ -21,7 +19,7 @@ Git
 * [Git push](http://git-scm.com/docs/git-push)
 
 Other
-* [Google fonts](https://www.google.com/fonts)
+
 
 
 ##Objectives
