@@ -8,6 +8,7 @@ tbd
 
 * [JSON Format](http://www.freeformatter.com/json-formatter.html)
 * [A simple JSON Tutorial](http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/)
+* [JSON Lint](http://jsonlint.com)
 * [Angular JS](https://angularjs.org)
 * [Angular Code](https://code.angularjs.org/)
 * [Angular Docs](https://docs.angularjs.org/api)
@@ -27,9 +28,10 @@ Other
 Understand the basic principles of AngularJS. This session will cover:
 
 * Basic AngularJS principles and directives
-* ng-app
-* ng-model
-* ng-init
+* Dependency injection
+* Angular $scope
+* ng-init, ng-model, ng-app
+* JSON format, structure and validation
 
 ##Essentials
 ```
