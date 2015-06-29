@@ -1,5 +1,4 @@
 {"portfolios":[
-
 {
     "name": "vessel1309",
     "title": "Call of Booty",
@@ -10,25 +9,27 @@
         "img2": "images/drunkenPirate_thumb2.png",
         "img3": "images/drunkenPirate_thumb3.png"
     }
-    }, {
+    }, 
+    {
         "name": "innocents1404",
         "title": "The Sack of the Innocents",
         "date": "2014-04-15",
         "description": "This be a detail of the sacking of the innocents where I played an important role as business analyst and in implementation.",
         "imageurl": {
-        "img1": "images/drunkenPirate_thumb1.png",
-        "img2": "images/drunkenPirate_thumb2.png",
-        "img3": "images/drunkenPirate_thumb3.png"
+            "img1": "images/drunkenPirate_thumb1.png",
+            "img2": "images/drunkenPirate_thumb2.png",
+            "img3": "images/drunkenPirate_thumb3.png"
         }
-        }, {
+        }, 
+        {
             "name": "firstmate1210",
             "title": "Pipe and First Mate",
             "date": "2012-10-01",
             "description": "After a hard day of lootin' and shootin' I like to relax with my best mates and tally up the days booty.",
             "imageurl": {
-        "img1": "images/drunkenPirate_thumb1.png",
-        "img2": "images/drunkenPirate_thumb2.png",
-        "img3": "images/drunkenPirate_thumb3.png"
+                "img1": "images/drunkenPirate_thumb1.png",
+                "img2": "images/drunkenPirate_thumb2.png",
+                "img3": "images/drunkenPirate_thumb3.png"
             }
-            }]
         }
+        ]}
