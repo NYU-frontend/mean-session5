@@ -4,7 +4,7 @@
 
 tbd
 
-##Tools of the trade - continued
+##Angular JS
 
 * [JSON Format](http://www.freeformatter.com/json-formatter.html)
 * [A simple JSON Tutorial](http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/)
